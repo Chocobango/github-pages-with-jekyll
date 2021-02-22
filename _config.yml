@@ -3,8 +3,7 @@ author: Chocobango
 email: chocobango@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Porque bailar la vida es la solucion a tus problemas
-  
-theme: minima  
+    
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
